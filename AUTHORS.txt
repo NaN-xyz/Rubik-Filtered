@@ -4,3 +4,9 @@
 # 
 # Names should be added to this file as: 
 # Name or Organization <email address> 
+
+Hubert and Fischer <hubertfischer.com>
+Meir Sadan <meir@sadan.com>
+Cyreal <contact@cyreal.org>
+NaN <>
+Luke Prowse <>

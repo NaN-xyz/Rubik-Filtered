@@ -8,5 +8,7 @@
 Hubert and Fischer <hubertfischer.com>
 Meir Sadan <meir@sadan.com>
 Cyreal <contact@cyreal.org>
-NaN <>
-Luke Prowse <>
+Simon Cozens <simon@simon-cozens.org>
+Rosalie Wagner <wgnr.rose@gmail.com>
+NaN <info@nan.xyz>
+Luke Prowse <luke@nan.xyz>

@@ -1,6 +1,8 @@
 ``
-this is a test
-asdasd
++-+-+-+-+-+-+-+
+|B|E|A|S|T|L|Y|
++-+-+-+-+-+-+-+
+
 ``
 
 ## Rubik Beastly

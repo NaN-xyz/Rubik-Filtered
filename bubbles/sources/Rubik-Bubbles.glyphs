@@ -1,5 +1,5 @@
 {
-.appVersion = "1161";
+.appVersion = "3112";
 classes = (
 {
 code = "alef-hb bet-hb gimel-hb dalet-hb he-hb vav-hb zayin-hb het-hb tet-hb yod-hb finalkaf-hb kaf-hb lamed-hb finalmem-hb mem-hb finalnun-hb nun-hb samekh-hb ayin-hb finalpe-hb pe-hb finaltsadi-hb tsadi-hb qof-hb resh-hb shin-hb tav-hb";
@@ -11,7 +11,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)";
+copyright = "Copyright 2015 The Rubik Filtered Project Authors (https://github.com/googlefonts/rubik)";
 customParameters = (
 {
 name = panose;
@@ -62,11 +62,11 @@ name = vendorID;
 value = NaN;
 }
 );
-date = "2017-03-21 06:32:22 +0000";
-designer = "Hubert and Fischer";
+date = "2022-02-09 14:28:07 +0000";
+designer = "Hubert and Fischer, NaN";
 designerURL = "http://www.hubertfischer.com";
 disablesNiceNames = 1;
-familyName = Rubik;
+familyName = "Rubik Bubbles";
 featurePrefixes = (
 {
 automatic = 1;
@@ -380,7 +380,6 @@ alignmentZones = (
 );
 ascender = 750;
 capHeight = 700;
-custom = Black;
 customParameters = (
 {
 name = hheaAscender;
@@ -1320,7 +1319,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -1612,7 +1610,6 @@ transform = "{1, 0, 0, 1, 189, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = A;
@@ -1683,7 +1680,6 @@ transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = A;
@@ -1754,7 +1750,6 @@ transform = "{1, 0, 0, 1, 103, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = A;
@@ -1825,7 +1820,6 @@ transform = "{1, 0, 0, 1, 108, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = A;
@@ -1896,7 +1890,6 @@ transform = "{1, 0, 0, 1, 29, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = A;
@@ -1967,7 +1960,6 @@ transform = "{1, 0, 0, 1, 116, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = A;
@@ -2098,7 +2090,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -2404,7 +2395,6 @@ transform = "{1, 0, 0, 1, 228, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = A;
@@ -2475,7 +2465,6 @@ transform = "{1, 0, 0, 1, 124, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = A;
@@ -2616,7 +2605,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -3005,7 +2993,6 @@ transform = "{1, 0, 0, 1, 314, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = AE;
@@ -3133,7 +3120,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -3571,7 +3557,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -3889,7 +3874,6 @@ transform = "{1, 0, 0, 1, 178, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = C;
@@ -3960,7 +3944,6 @@ transform = "{1, 0, 0, 1, 92, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = C;
@@ -4094,7 +4077,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -4479,7 +4461,6 @@ transform = "{1, 0, 0, 1, 92, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = C;
@@ -4550,7 +4531,6 @@ transform = "{1, 0, 0, 1, 226, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = C;
@@ -4683,7 +4663,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -5071,7 +5050,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -5385,7 +5363,6 @@ transform = "{1, 0, 0, 1, 89, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = D;
@@ -5510,7 +5487,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -5912,7 +5888,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -6242,7 +6217,6 @@ transform = "{1, 0, 0, 1, 145, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = E;
@@ -6313,7 +6287,6 @@ transform = "{1, 0, 0, 1, 107, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = E;
@@ -6384,7 +6357,6 @@ transform = "{1, 0, 0, 1, 59, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = E;
@@ -6462,7 +6434,6 @@ transform = "{1, 0, 0, 1, 59, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = E;
@@ -6533,7 +6504,6 @@ transform = "{1, 0, 0, 1, 64, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = E;
@@ -6604,7 +6574,6 @@ transform = "{1, 0, 0, 1, 193, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = E;
@@ -6675,7 +6644,6 @@ transform = "{1, 0, 0, 1, -15, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = E;
@@ -6746,7 +6714,6 @@ transform = "{1, 0, 0, 1, 72, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = E;
@@ -6886,7 +6853,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -7272,7 +7238,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -7651,7 +7616,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -8002,7 +7966,6 @@ transform = "{1, 0, 0, 1, 150, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = G;
@@ -8073,7 +8036,6 @@ transform = "{1, 0, 0, 1, 102, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = G;
@@ -8144,7 +8106,6 @@ transform = "{1, 0, 0, 1, 194, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = G;
@@ -8222,7 +8183,6 @@ transform = "{1, 0, 0, 1, 236, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = G;
@@ -8364,7 +8324,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -8707,7 +8666,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = H;
@@ -8858,7 +8816,6 @@ transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = H;
@@ -8980,7 +8937,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -9210,7 +9166,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -9475,7 +9430,6 @@ transform = "{1, 0, 0, 1, -5, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -9546,7 +9500,6 @@ transform = "{1, 0, 0, 1, -43, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -9617,7 +9570,6 @@ transform = "{1, 0, 0, 1, -91, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -9688,7 +9640,6 @@ transform = "{1, 0, 0, 1, -86, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -9759,7 +9710,6 @@ transform = "{1, 0, 0, 1, 43, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -9830,7 +9780,6 @@ transform = "{1, 0, 0, 1, -165, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -9901,7 +9850,6 @@ transform = "{1, 0, 0, 1, -78, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -10009,7 +9957,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -10236,7 +10183,6 @@ transform = "{1, 0, 0, 1, -70, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -10359,7 +10305,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -10649,7 +10594,6 @@ transform = "{1, 0, 0, 1, 182, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = J;
@@ -10708,7 +10652,6 @@ transform = "{1, 0, 0, 1, 96, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = J;
@@ -10839,7 +10782,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -11120,7 +11062,6 @@ transform = "{1, 0, 0, 1, 175, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = K;
@@ -11254,7 +11195,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -11452,7 +11392,6 @@ transform = "{1, 0, 0, 1, -16, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = L;
@@ -11530,7 +11469,6 @@ transform = "{1, 0, 0, 1, 174, -51}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = L;
@@ -11604,7 +11542,6 @@ transform = "{1, 0, 0, 1, 130, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = L;
@@ -11683,7 +11620,6 @@ transform = "{1, 0, 0, 1, 626, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = L;
@@ -11817,7 +11753,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -12182,7 +12117,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -12568,7 +12502,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -12844,7 +12777,6 @@ transform = "{1, 0, 0, 1, 181, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = N;
@@ -12915,7 +12847,6 @@ transform = "{1, 0, 0, 1, 95, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = N;
@@ -12986,7 +12917,6 @@ transform = "{1, 0, 0, 1, 191, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = N;
@@ -13064,7 +12994,6 @@ transform = "{1, 0, 0, 1, 116, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = N;
@@ -13177,7 +13106,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -13534,7 +13462,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -13866,7 +13793,6 @@ transform = "{1, 0, 0, 1, 182, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -13937,7 +13863,6 @@ transform = "{1, 0, 0, 1, 144, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -14008,7 +13933,6 @@ transform = "{1, 0, 0, 1, 96, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -14079,7 +14003,6 @@ transform = "{1, 0, 0, 1, 101, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -14150,7 +14073,6 @@ transform = "{1, 0, 0, 1, 22, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -14221,7 +14143,6 @@ transform = "{1, 0, 0, 1, 132, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -14292,7 +14213,6 @@ transform = "{1, 0, 0, 1, 109, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -14383,7 +14303,6 @@ transform = "{1, 0, 0, 1, 86, -1}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -14502,7 +14421,6 @@ transform = "{1, 0, 0, 1, 182, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = Oslash;
@@ -14573,7 +14491,6 @@ transform = "{1, 0, 0, 1, 117, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -14718,7 +14635,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -15174,7 +15090,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -15555,7 +15470,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -15922,7 +15836,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -16346,7 +16259,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -16680,7 +16592,6 @@ transform = "{1, 0, 0, 1, 152, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = R;
@@ -16751,7 +16662,6 @@ transform = "{1, 0, 0, 1, 66, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = R;
@@ -16822,7 +16732,6 @@ transform = "{1, 0, 0, 1, 186, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = R;
@@ -16969,7 +16878,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -17254,7 +17162,6 @@ transform = "{1, 0, 0, 1, 160, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = S;
@@ -17325,7 +17232,6 @@ transform = "{1, 0, 0, 1, 74, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = S;
@@ -17476,7 +17382,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -17849,7 +17754,6 @@ transform = "{1, 0, 0, 1, 74, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = S;
@@ -17920,7 +17824,6 @@ transform = "{1, 0, 0, 1, 166, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = S;
@@ -18058,7 +17961,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -18401,7 +18303,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -18676,7 +18577,6 @@ transform = "{1, 0, 0, 1, 62, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = T;
@@ -18747,7 +18647,6 @@ transform = "{1, 0, 0, 1, 154, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = T;
@@ -18883,7 +18782,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -19178,7 +19076,6 @@ transform = "{1, 0, 0, 1, 184, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = U;
@@ -19249,7 +19146,6 @@ transform = "{1, 0, 0, 1, 146, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = U;
@@ -19320,7 +19216,6 @@ transform = "{1, 0, 0, 1, 98, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = U;
@@ -19391,7 +19286,6 @@ transform = "{1, 0, 0, 1, 103, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = U;
@@ -19462,7 +19356,6 @@ transform = "{1, 0, 0, 1, 24, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = U;
@@ -19533,7 +19426,6 @@ transform = "{1, 0, 0, 1, 134, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = U;
@@ -19604,7 +19496,6 @@ transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = U;
@@ -19725,7 +19616,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -20034,7 +19924,6 @@ transform = "{1, 0, 0, 1, 223, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = U;
@@ -20105,7 +19994,6 @@ transform = "{1, 0, 0, 1, 119, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = U;
@@ -20226,7 +20114,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -20537,7 +20424,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -20851,7 +20737,6 @@ transform = "{1, 0, 0, 1, 239, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = W;
@@ -20922,7 +20807,6 @@ transform = "{1, 0, 0, 1, 153, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = W;
@@ -20993,7 +20877,6 @@ transform = "{1, 0, 0, 1, 158, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = W;
@@ -21064,7 +20947,6 @@ transform = "{1, 0, 0, 1, 79, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = W;
@@ -21202,7 +21084,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -21571,7 +21452,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -21820,7 +21700,6 @@ transform = "{1, 0, 0, 1, 166, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = Y;
@@ -21891,7 +21770,6 @@ transform = "{1, 0, 0, 1, 80, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = Y;
@@ -21962,7 +21840,6 @@ transform = "{1, 0, 0, 1, 85, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = Y;
@@ -22033,7 +21910,6 @@ transform = "{1, 0, 0, 1, 6, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = Y;
@@ -22165,7 +22041,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -22482,7 +22357,6 @@ transform = "{1, 0, 0, 1, 148, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = Z;
@@ -22553,7 +22427,6 @@ transform = "{1, 0, 0, 1, 62, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = Z;
@@ -22624,7 +22497,6 @@ transform = "{1, 0, 0, 1, 196, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = Z;
@@ -22778,7 +22650,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -23162,7 +23033,6 @@ transform = "{1, 0, 0, 1, 159, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = a;
@@ -23240,7 +23110,6 @@ transform = "{1, 0, 0, 1, 88, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = a;
@@ -23318,7 +23187,6 @@ transform = "{1, 0, 0, 1, 46, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = a;
@@ -23389,7 +23257,6 @@ transform = "{1, 0, 0, 1, 55, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = a;
@@ -23460,7 +23327,6 @@ transform = "{1, 0, 0, 1, 12, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = a;
@@ -23531,7 +23397,6 @@ transform = "{1, 0, 0, 1, 73, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = a;
@@ -23677,7 +23542,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -24059,7 +23923,6 @@ transform = "{1, 0, 0, 1, 160, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = a;
@@ -24137,7 +24000,6 @@ transform = "{1, 0, 0, 1, 56, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = a;
@@ -24325,7 +24187,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -24814,7 +24675,6 @@ transform = "{1, 0, 0, 1, 317, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = ae;
@@ -24967,7 +24827,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -25352,7 +25211,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -25657,7 +25515,6 @@ transform = "{1, 0, 0, 1, 160, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = c;
@@ -25728,7 +25585,6 @@ transform = "{1, 0, 0, 1, 47, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = c;
@@ -25873,7 +25729,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -26191,7 +26046,6 @@ transform = "{1, 0, 0, 1, 47, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = c;
@@ -26262,7 +26116,6 @@ transform = "{1, 0, 0, 1, 172, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = c;
@@ -26423,7 +26276,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -26861,7 +26713,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -27151,7 +27002,6 @@ transform = "{1, 0, 0, 1, 469, 10}";
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -27288,7 +27138,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -27723,7 +27572,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -28054,7 +27902,6 @@ transform = "{1, 0, 0, 1, 161, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = e;
@@ -28125,7 +27972,6 @@ transform = "{1, 0, 0, 1, 90, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = e;
@@ -28203,7 +28049,6 @@ transform = "{1, 0, 0, 1, 48, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = e;
@@ -28274,7 +28119,6 @@ transform = "{1, 0, 0, 1, 48, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = e;
@@ -28345,7 +28189,6 @@ transform = "{1, 0, 0, 1, 57, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = e;
@@ -28416,7 +28259,6 @@ transform = "{1, 0, 0, 1, 173, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = e;
@@ -28487,7 +28329,6 @@ transform = "{1, 0, 0, 1, 14, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = e;
@@ -28558,7 +28399,6 @@ transform = "{1, 0, 0, 1, 75, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = e;
@@ -28709,7 +28549,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -29148,7 +28987,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -29527,7 +29365,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -29925,7 +29762,6 @@ transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = g;
@@ -30003,7 +29839,6 @@ transform = "{1, 0, 0, 1, 63, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = g;
@@ -30074,7 +29909,6 @@ transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = g;
@@ -30152,7 +29986,6 @@ transform = "{1, 0, 0, 1, 188, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = g;
@@ -30288,7 +30121,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -30608,7 +30440,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = h;
@@ -30762,7 +30593,6 @@ transform = "{1, 0, 0, 1, 79, 156}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = h;
@@ -30878,7 +30708,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -31195,7 +31024,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -31368,7 +31196,6 @@ transform = "{1, 0, 0, 1, 11, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = idotless;
@@ -31428,7 +31255,6 @@ transform = "{1, 0, 0, 1, -60, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = idotless;
@@ -31506,7 +31332,6 @@ transform = "{1, 0, 0, 1, -102, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = idotless;
@@ -31584,7 +31409,6 @@ transform = "{1, 0, 0, 1, -93, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = idotless;
@@ -31655,7 +31479,6 @@ transform = "{1, 0, 0, 1, -136, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = idotless;
@@ -31726,7 +31549,6 @@ transform = "{1, 0, 0, 1, 367, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = i;
@@ -31786,7 +31608,6 @@ transform = "{1, 0, 0, 1, -75, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = idotless;
@@ -31915,7 +31736,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -32206,7 +32026,6 @@ transform = "{1, 0, 0, 1, -92, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = idotless;
@@ -32340,7 +32159,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -32660,7 +32478,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -32893,7 +32710,6 @@ transform = "{1, 0, 0, 1, 90, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = jdotless;
@@ -32952,7 +32768,6 @@ transform = "{1, 0, 0, 1, -23, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = jdotless;
@@ -33083,7 +32898,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -33385,7 +33199,6 @@ transform = "{1, 0, 0, 1, 145, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = k;
@@ -33597,7 +33410,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -33788,7 +33600,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -33979,7 +33790,6 @@ transform = "{1, 0, 0, 1, 11, 155}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = l;
@@ -34040,7 +33850,6 @@ transform = "{1, 0, 0, 1, 128, 10}";
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -34103,7 +33912,6 @@ transform = "{1, 0, 0, 1, -15, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = l;
@@ -34164,7 +33972,6 @@ transform = "{1, 0, 0, 1, 323, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = l;
@@ -34278,7 +34085,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -34606,7 +34412,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -34999,7 +34804,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -35304,7 +35108,6 @@ transform = "{1, 0, 0, 1, 189, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = n;
@@ -35398,7 +35201,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = n;
@@ -35538,7 +35340,6 @@ transform = "{1, 0, 0, 1, 76, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = n;
@@ -35609,7 +35410,6 @@ transform = "{1, 0, 0, 1, 166, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = n;
@@ -35680,7 +35480,6 @@ transform = "{1, 0, 0, 1, 86, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = n;
@@ -35796,7 +35595,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -36161,7 +35959,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -36497,7 +36294,6 @@ transform = "{1, 0, 0, 1, 170, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -36568,7 +36364,6 @@ transform = "{1, 0, 0, 1, 99, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -36653,7 +36448,6 @@ transform = "{1, 0, 0, 1, 57, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -36724,7 +36518,6 @@ transform = "{1, 0, 0, 1, 66, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -36795,7 +36588,6 @@ transform = "{1, 0, 0, 1, 23, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -36866,7 +36658,6 @@ transform = "{1, 0, 0, 1, 59, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -36937,7 +36728,6 @@ transform = "{1, 0, 0, 1, 84, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -37020,7 +36810,6 @@ transform = "{1, 0, 0, 1, -3, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -37152,7 +36941,6 @@ transform = "{1, 0, 0, 1, 170, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = oslash;
@@ -37223,7 +37011,6 @@ transform = "{1, 0, 0, 1, 67, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -37396,7 +37183,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -37923,7 +37709,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -38373,7 +38158,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -38772,7 +38556,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -39169,7 +38952,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -39383,7 +39165,6 @@ transform = "{1, 0, 0, 1, 126, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = r;
@@ -39461,7 +39242,6 @@ transform = "{1, 0, 0, 1, 13, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = r;
@@ -39532,7 +39312,6 @@ transform = "{1, 0, 0, 1, -13, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = r;
@@ -39686,7 +39465,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -39990,7 +39768,6 @@ transform = "{1, 0, 0, 1, 144, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = s;
@@ -40061,7 +39838,6 @@ transform = "{1, 0, 0, 1, 31, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = s;
@@ -40212,7 +39988,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -40541,7 +40316,6 @@ transform = "{1, 0, 0, 1, 31, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = s;
@@ -40612,7 +40386,6 @@ transform = "{1, 0, 0, 1, 118, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = s;
@@ -40766,7 +40539,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -41163,7 +40935,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -41471,7 +41242,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -41817,7 +41587,6 @@ nodes = (
 }
 );
 };
-color = -1;
 hints = (
 {
 horizontal = 1;
@@ -42123,7 +41892,6 @@ transform = "{1, 0, 0, 1, 200, 110}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = t;
@@ -42193,7 +41961,6 @@ transform = "{1, 0, 0, 1, 134, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = t;
@@ -42337,7 +42104,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -42628,7 +42394,6 @@ transform = "{1, 0, 0, 1, 186, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = u;
@@ -42699,7 +42464,6 @@ transform = "{1, 0, 0, 1, 115, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = u;
@@ -42777,7 +42541,6 @@ transform = "{1, 0, 0, 1, 73, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = u;
@@ -42855,7 +42618,6 @@ transform = "{1, 0, 0, 1, 82, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = u;
@@ -42926,7 +42688,6 @@ transform = "{1, 0, 0, 1, 39, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = u;
@@ -42997,7 +42758,6 @@ transform = "{1, 0, 0, 1, 75, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = u;
@@ -43075,7 +42835,6 @@ transform = "{1, 0, 0, 1, 100, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = u;
@@ -43204,7 +42963,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -43481,7 +43239,6 @@ transform = "{1, 0, 0, 1, 187, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = u;
@@ -43559,7 +43316,6 @@ transform = "{1, 0, 0, 1, 83, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = u;
@@ -43687,7 +43443,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -43975,7 +43730,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -44264,7 +44018,6 @@ transform = "{1, 0, 0, 1, 284, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = w;
@@ -44342,7 +44095,6 @@ transform = "{1, 0, 0, 1, 171, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = w;
@@ -44420,7 +44172,6 @@ transform = "{1, 0, 0, 1, 180, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = w;
@@ -44491,7 +44242,6 @@ transform = "{1, 0, 0, 1, 137, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = w;
@@ -44629,7 +44379,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -44946,7 +44695,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -45174,7 +44922,6 @@ transform = "{1, 0, 0, 1, 172, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = y;
@@ -45245,7 +44992,6 @@ transform = "{1, 0, 0, 1, 59, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = y;
@@ -45323,7 +45069,6 @@ transform = "{1, 0, 0, 1, 68, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = y;
@@ -45394,7 +45139,6 @@ transform = "{1, 0, 0, 1, 25, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = y;
@@ -45526,7 +45270,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -45785,7 +45528,6 @@ transform = "{1, 0, 0, 1, 146, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = z;
@@ -45863,7 +45605,6 @@ transform = "{1, 0, 0, 1, 33, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = z;
@@ -45941,7 +45682,6 @@ transform = "{1, 0, 0, 1, 158, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = z;
@@ -46095,7 +45835,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -46583,7 +46322,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -47132,7 +46870,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -47624,7 +47361,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -48003,7 +47739,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -48360,7 +48095,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -48605,7 +48339,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -48809,7 +48542,6 @@ name = A;
 }
 );
 };
-color = -1;
 components = (
 {
 name = A;
@@ -48893,7 +48625,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -49162,7 +48893,6 @@ name = B;
 }
 );
 };
-color = -1;
 components = (
 {
 name = B;
@@ -49250,7 +48980,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -49441,7 +49170,6 @@ transform = "{1, 0, 0, 1, 161, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ge-cy";
@@ -49527,7 +49255,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -49701,7 +49428,6 @@ transform = "{1, 0, 0, 1, 55, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ge-cy";
@@ -49801,7 +49527,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -50071,7 +49796,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -50391,7 +50115,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -50708,7 +50431,6 @@ name = E;
 }
 );
 };
-color = -1;
 components = (
 {
 name = E;
@@ -50769,7 +50491,6 @@ transform = "{1, 0, 0, 1, 5, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ie-cy";
@@ -50841,7 +50562,6 @@ transform = "{1, 0, 0, 1, 99, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ie-cy";
@@ -51002,7 +50722,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -51467,7 +51186,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -51851,7 +51569,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -52102,7 +51819,6 @@ transform = "{1, 0, 0, 1, 118, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ii-cy";
@@ -52174,7 +51890,6 @@ transform = "{1, 0, 0, 1, 66, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ii-cy";
@@ -52308,7 +52023,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -52583,7 +52297,6 @@ transform = "{1, 0, 0, 1, 176, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ka-cy";
@@ -52675,7 +52388,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -52903,7 +52615,6 @@ name = M;
 }
 );
 };
-color = -1;
 components = (
 {
 name = M;
@@ -52960,7 +52671,6 @@ name = H;
 }
 );
 };
-color = -1;
 components = (
 {
 name = H;
@@ -53029,7 +52739,6 @@ name = O;
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -53127,7 +52836,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -53346,7 +53054,6 @@ name = P;
 }
 );
 };
-color = -1;
 components = (
 {
 name = P;
@@ -53402,7 +53109,6 @@ name = C;
 }
 );
 };
-color = -1;
 components = (
 {
 name = C;
@@ -53470,7 +53176,6 @@ name = T;
 }
 );
 };
-color = -1;
 components = (
 {
 name = T;
@@ -53585,7 +53290,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -53857,7 +53561,6 @@ transform = "{1, 0, 0, 1, 72, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "U-cy";
@@ -53994,7 +53697,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -54380,7 +54082,6 @@ name = X;
 }
 );
 };
-color = -1;
 components = (
 {
 name = X;
@@ -54496,7 +54197,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -54805,7 +54505,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -55111,7 +54810,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -55447,7 +55145,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -55809,7 +55506,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -56124,7 +55820,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -56387,7 +56082,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -56691,7 +56385,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -57000,7 +56693,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -57354,7 +57046,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -57656,7 +57347,6 @@ name = S;
 }
 );
 };
-color = -1;
 components = (
 {
 name = S;
@@ -57754,7 +57444,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -58088,7 +57777,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -58395,7 +58083,6 @@ name = I;
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -58456,7 +58143,6 @@ transform = "{1, 0, 0, 1, -71, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -58524,7 +58210,6 @@ name = J;
 }
 );
 };
-color = -1;
 components = (
 {
 name = J;
@@ -58618,7 +58303,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -58976,7 +58660,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -59398,7 +59081,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -59745,7 +59427,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -60073,7 +59754,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Softsign-cy";
@@ -60280,7 +59960,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -60649,7 +60328,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = O;
@@ -60778,7 +60456,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -61033,7 +60710,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Zhe-cy";
@@ -61190,7 +60866,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ze-cy";
@@ -61300,7 +60975,6 @@ transform = "{1, 0, 0, 1, 444, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ka-cy";
@@ -61424,7 +61098,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -61776,7 +61449,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -62046,7 +61718,6 @@ name = "En-cy";
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -62148,7 +61819,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -62416,7 +62086,6 @@ transform = "{1, 0, 0, 1, 466, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Pe-cy";
@@ -62492,7 +62161,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Es-cy";
@@ -62633,7 +62301,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -62862,7 +62529,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ustrait-cy";
@@ -62999,7 +62665,6 @@ transform = "{1, 0, 0, 1, 423, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Che-cy";
@@ -63119,7 +62784,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -63456,7 +63120,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -63683,7 +63346,6 @@ name = I;
 }
 );
 };
-color = -1;
 components = (
 {
 name = I;
@@ -63730,7 +63392,6 @@ transform = "{1, 0, 0, 1, 271, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Zhe-cy";
@@ -63808,7 +63469,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Che-cy";
@@ -63930,7 +63590,6 @@ transform = "{1, 0, 0, 1, 81, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "A-cy";
@@ -63989,7 +63648,6 @@ transform = "{1, 0, 0, 1, 123, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "A-cy";
@@ -64044,7 +63702,6 @@ name = AE;
 }
 );
 };
-color = -1;
 components = (
 {
 name = AE;
@@ -64091,7 +63748,6 @@ transform = "{1, 0, 0, 1, 57, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ie-cy";
@@ -64213,7 +63869,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -64492,7 +64147,6 @@ transform = "{1, 0, 0, 1, 313, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Zhe-cy";
@@ -64551,7 +64205,6 @@ transform = "{1, 0, 0, 1, 103, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ze-cy";
@@ -64610,7 +64263,6 @@ transform = "{1, 0, 0, 1, 178, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ii-cy";
@@ -64669,7 +64321,6 @@ transform = "{1, 0, 0, 1, 160, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Ii-cy";
@@ -64728,7 +64379,6 @@ transform = "{1, 0, 0, 1, 116, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "O-cy";
@@ -64819,7 +64469,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "O-cy";
@@ -64961,7 +64610,6 @@ transform = "{1, 0, 0, 1, 132, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "U-cy";
@@ -65020,7 +64668,6 @@ transform = "{1, 0, 0, 1, 114, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "U-cy";
@@ -65079,7 +64726,6 @@ transform = "{1, 0, 0, 1, 107, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "U-cy";
@@ -65138,7 +64784,6 @@ transform = "{1, 0, 0, 1, 94, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Che-cy";
@@ -65197,7 +64842,6 @@ transform = "{1, 0, 0, 1, 269, 180}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "Yeru-cy";
@@ -65252,7 +64896,6 @@ name = Q;
 }
 );
 };
-color = -1;
 components = (
 {
 name = Q;
@@ -65295,7 +64938,6 @@ name = W;
 }
 );
 };
-color = -1;
 components = (
 {
 name = W;
@@ -65350,7 +64992,6 @@ name = a;
 }
 );
 };
-color = -1;
 components = (
 {
 name = a;
@@ -65463,7 +65104,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -65819,7 +65459,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -66131,7 +65770,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -66310,7 +65948,6 @@ transform = "{1, 0, 0, 1, 110, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ge-cy";
@@ -66407,7 +66044,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -66578,7 +66214,6 @@ transform = "{1, 0, 0, 1, 46, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ge-cy";
@@ -66637,7 +66272,6 @@ transform = "{1, 0, 0, 1, -65, -52}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ge-cy";
@@ -66751,7 +66385,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -67059,7 +66692,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -67376,7 +67008,6 @@ name = e;
 }
 );
 };
-color = -1;
 components = (
 {
 name = e;
@@ -67437,7 +67068,6 @@ transform = "{1, 0, 0, 1, 13, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ie-cy";
@@ -67516,7 +67146,6 @@ transform = "{1, 0, 0, 1, 56, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ie-cy";
@@ -67677,7 +67306,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -68114,7 +67742,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -68444,7 +68071,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -68686,7 +68312,6 @@ transform = "{1, 0, 0, 1, 55, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ii-cy";
@@ -68758,7 +68383,6 @@ transform = "{1, 0, 0, 1, 54, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ii-cy";
@@ -68881,7 +68505,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -69148,7 +68771,6 @@ transform = "{1, 0, 0, 1, 182, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ka-cy";
@@ -69251,7 +68873,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -69500,7 +69121,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -69797,7 +69417,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -70043,7 +69662,6 @@ name = o;
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -70141,7 +69759,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -70366,7 +69983,6 @@ name = p;
 }
 );
 };
-color = -1;
 components = (
 {
 name = p;
@@ -70435,7 +70051,6 @@ name = c;
 }
 );
 };
-color = -1;
 components = (
 {
 name = c;
@@ -70532,7 +70147,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -70780,7 +70394,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -71043,7 +70656,6 @@ transform = "{1, 0, 0, 1, 29, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "u-cy";
@@ -71180,7 +70792,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -71540,7 +71151,6 @@ name = x;
 }
 );
 };
-color = -1;
 components = (
 {
 name = x;
@@ -71656,7 +71266,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -71910,7 +71519,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -72205,7 +71813,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -72497,7 +72104,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -72826,7 +72432,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -73095,7 +72700,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -73369,7 +72973,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = idotless;
@@ -73643,7 +73246,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -73913,7 +73515,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -74243,7 +73844,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -74521,7 +74121,6 @@ name = s;
 }
 );
 };
-color = -1;
 components = (
 {
 name = s;
@@ -74619,7 +74218,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -74912,7 +74510,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -75196,7 +74793,6 @@ name = i;
 }
 );
 };
-color = -1;
 components = (
 {
 name = i;
@@ -75257,7 +74853,6 @@ transform = "{1, 0, 0, 1, -93, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = idotless;
@@ -75313,7 +74908,6 @@ name = j;
 }
 );
 };
-color = -1;
 components = (
 {
 name = j;
@@ -75418,7 +75012,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -75745,7 +75338,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = o;
@@ -75985,7 +75577,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -76337,7 +75928,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -76726,7 +76316,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -77067,7 +76656,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -77394,7 +76982,6 @@ name = "obarred-cy";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "obarred-cy";
@@ -77487,7 +77074,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -77710,7 +77296,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "zhe-cy";
@@ -77862,7 +77447,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -77999,7 +77583,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ka-cy";
@@ -78201,7 +77784,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -78535,7 +78117,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -78781,7 +78362,6 @@ transform = "{1, 0, 0, 1, 378, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "en-cy";
@@ -78883,7 +78463,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -79118,7 +78697,6 @@ transform = "{1, 0, 0, 1, 378, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "pe-cy";
@@ -79194,7 +78772,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "es-cy";
@@ -79332,7 +78909,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -79523,7 +79099,6 @@ transform = "{1, 0, 0, 1, 63, -308}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ustrait-cy";
@@ -79583,7 +79158,6 @@ transform = "{1, 0, 0, 1, 352, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "che-cy";
@@ -79703,7 +79277,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -79981,7 +79554,6 @@ name = h;
 }
 );
 };
-color = -1;
 components = (
 {
 name = h;
@@ -80036,7 +79608,6 @@ name = l;
 }
 );
 };
-color = -1;
 components = (
 {
 name = l;
@@ -80083,7 +79654,6 @@ transform = "{1, 0, 0, 1, 210, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "zhe-cy";
@@ -80161,7 +79731,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = "che-cy";
@@ -80283,7 +79852,6 @@ transform = "{1, 0, 0, 1, 24, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "a-cy";
@@ -80342,7 +79910,6 @@ transform = "{1, 0, 0, 1, 66, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "a-cy";
@@ -80397,7 +79964,6 @@ name = ae;
 }
 );
 };
-color = -1;
 components = (
 {
 name = ae;
@@ -80444,7 +80010,6 @@ transform = "{1, 0, 0, 1, 14, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ie-cy";
@@ -80564,7 +80129,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -80809,7 +80373,6 @@ transform = "{1, 0, 0, 1, 252, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "zhe-cy";
@@ -80868,7 +80431,6 @@ transform = "{1, 0, 0, 1, 52, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ze-cy";
@@ -80927,7 +80489,6 @@ transform = "{1, 0, 0, 1, 115, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ii-cy";
@@ -80986,7 +80547,6 @@ transform = "{1, 0, 0, 1, 97, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "ii-cy";
@@ -81045,7 +80605,6 @@ transform = "{1, 0, 0, 1, 66, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "o-cy";
@@ -81177,7 +80736,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -81460,7 +81018,6 @@ transform = "{1, 0, 0, 1, 89, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "u-cy";
@@ -81519,7 +81076,6 @@ transform = "{1, 0, 0, 1, 71, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "u-cy";
@@ -81578,7 +81134,6 @@ transform = "{1, 0, 0, 1, 64, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "u-cy";
@@ -81637,7 +81192,6 @@ transform = "{1, 0, 0, 1, 48, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "che-cy";
@@ -81696,7 +81250,6 @@ transform = "{1, 0, 0, 1, 206, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "yeru-cy";
@@ -81751,7 +81304,6 @@ name = q;
 }
 );
 };
-color = -1;
 components = (
 {
 name = q;
@@ -81794,7 +81346,6 @@ name = w;
 }
 );
 };
-color = -1;
 components = (
 {
 name = w;
@@ -81948,7 +81499,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -82300,7 +81850,6 @@ transform = "{1, 0, 0, 1, 316, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "alef-hb";
@@ -82359,7 +81908,6 @@ transform = "{1, 0, 0, 1, 316, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "alef-hb";
@@ -82418,7 +81966,6 @@ transform = "{1, 0, 0, 1, 238, -262}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "alef-hb";
@@ -82554,7 +82101,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -82818,7 +82364,6 @@ transform = "{1, 0, 0, 1, 109, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "bet-hb";
@@ -82971,7 +82516,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -83245,7 +82789,6 @@ transform = "{1, 0, 0, 1, 70, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "gimel-hb";
@@ -83386,7 +82929,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -83644,7 +83186,6 @@ transform = "{1, 0, 0, 1, 75, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "dalet-hb";
@@ -83793,7 +83334,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -84097,7 +83637,6 @@ transform = "{1, 0, 0, 1, 276, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "he-hb";
@@ -84228,7 +83767,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -84420,7 +83958,6 @@ transform = "{1, 0, 0, 1, -5, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -84487,7 +84024,6 @@ transform = "{1, 0, 0, 1, 154, 105}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "vav-hb";
@@ -84629,7 +84165,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -84878,7 +84413,6 @@ transform = "{1, 0, 0, 1, -28, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "zayin-hb";
@@ -85011,7 +84545,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -85369,7 +84902,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -85679,7 +85211,6 @@ transform = "{1, 0, 0, 1, 270, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "tet-hb";
@@ -85799,7 +85330,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -85974,7 +85504,6 @@ transform = "{1, 0, 0, 1, 15, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -86122,7 +85651,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -86355,7 +85883,6 @@ transform = "{1, 0, 0, 1, 154, -29}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "finalkaf-hb";
@@ -86495,7 +86022,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -86759,7 +86285,6 @@ transform = "{1, 0, 0, 1, 115, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "kaf-hb";
@@ -86913,7 +86438,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -87202,7 +86726,6 @@ transform = "{1, 0, 0, 1, 94, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "lamed-hb";
@@ -87334,7 +86857,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -87713,7 +87235,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -88023,7 +87544,6 @@ transform = "{1, 0, 0, 1, 328, -56}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "mem-hb";
@@ -88143,7 +87663,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -88410,7 +87929,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -88671,7 +88189,6 @@ transform = "{1, 0, 0, 1, 51, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "nun-hb";
@@ -88811,7 +88328,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -89098,7 +88614,6 @@ transform = "{1, 0, 0, 1, 266, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "samekh-hb";
@@ -89244,7 +88759,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -89607,7 +89121,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -89976,7 +89489,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -90370,7 +89882,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -90787,7 +90298,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -91187,7 +90697,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -91562,7 +91071,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -91854,7 +91362,6 @@ transform = "{1, 0, 0, 1, 65, -51}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "tsadi-hb";
@@ -92009,7 +91516,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -92352,7 +91858,6 @@ transform = "{1, 0, 0, 1, 290, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "qof-hb";
@@ -92480,7 +91985,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -92720,7 +92224,6 @@ transform = "{1, 0, 0, 1, 123, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "resh-hb";
@@ -92883,7 +92386,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -93233,7 +92735,6 @@ transform = "{1, 0, 0, 1, 716, 105}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "shin-hb";
@@ -93294,7 +92795,6 @@ transform = "{1, 0, 0, 1, 52, 105}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "shin-hb";
@@ -93370,7 +92870,6 @@ transform = "{1, 0, 0, 1, 716, 105}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "shin-hb";
@@ -93447,7 +92946,6 @@ transform = "{1, 0, 0, 1, 52, 105}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "shin-hb";
@@ -93520,7 +93018,6 @@ transform = "{1, 0, 0, 1, 451, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "shin-hb";
@@ -93680,7 +93177,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -94027,7 +93523,6 @@ transform = "{1, 0, 0, 1, 355, -26}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "tav-hb";
@@ -94088,7 +93583,6 @@ name = "yod-hb";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "yod-hb";
@@ -94186,7 +93680,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -94445,7 +93938,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -94652,7 +94144,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -94962,7 +94453,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -95256,7 +94746,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -95540,7 +95029,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -95847,7 +95335,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -96106,7 +95593,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -96346,7 +95832,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -96681,7 +96166,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -96939,7 +96423,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = zero;
@@ -97083,7 +96566,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -97357,7 +96839,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -97624,7 +97105,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -97930,7 +97410,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -98220,7 +97699,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -98509,7 +97987,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -98818,7 +98295,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -99073,7 +98549,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -99327,7 +98802,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -99649,7 +99123,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -99885,7 +99358,6 @@ nodes = (
 }
 );
 };
-color = -1;
 components = (
 {
 name = zero.tf;
@@ -99992,7 +99464,6 @@ transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = zeroinferior;
@@ -100048,7 +99519,6 @@ transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = oneinferior;
@@ -100104,7 +99574,6 @@ transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = twoinferior;
@@ -100167,7 +99636,6 @@ transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = threeinferior;
@@ -100223,7 +99691,6 @@ transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = fourinferior;
@@ -100268,7 +99735,6 @@ transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = fiveinferior;
@@ -100324,7 +99790,6 @@ transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = sixinferior;
@@ -100380,7 +99845,6 @@ transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = seveninferior;
@@ -100425,7 +99889,6 @@ transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = eightinferior;
@@ -100488,7 +99951,6 @@ transform = "{1, 0, 0, 1, 0, 171}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = nineinferior;
@@ -100595,7 +100057,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -100842,7 +100303,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -101056,7 +100516,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -101337,7 +100796,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -101636,7 +101094,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -101917,7 +101374,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -102210,7 +101666,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -102467,7 +101922,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -102710,7 +102164,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -103026,7 +102479,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -103235,7 +102687,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = zeroinferior;
@@ -103291,7 +102742,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = oneinferior;
@@ -103347,7 +102797,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = twoinferior;
@@ -103410,7 +102859,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = threeinferior;
@@ -103466,7 +102914,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = fourinferior;
@@ -103511,7 +102958,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = fiveinferior;
@@ -103567,7 +103013,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = sixinferior;
@@ -103623,7 +103068,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = seveninferior;
@@ -103668,7 +103112,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = eightinferior;
@@ -103731,7 +103174,6 @@ transform = "{1, 0, 0, 1, 0, 521}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = nineinferior;
@@ -103795,7 +103237,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = zeroinferior;
@@ -103860,7 +103301,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = oneinferior;
@@ -103918,7 +103358,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = twoinferior;
@@ -103983,7 +103422,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = threeinferior;
@@ -104041,7 +103479,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = fourinferior;
@@ -104088,7 +103525,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = fiveinferior;
@@ -104146,7 +103582,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = sixinferior;
@@ -104204,7 +103639,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = seveninferior;
@@ -104251,7 +103685,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = eightinferior;
@@ -104316,7 +103749,6 @@ transform = "{1, 0, 0, 1, 0, 521}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = nineinferior;
@@ -104404,7 +103836,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -104566,7 +103997,6 @@ transform = "{1, 0, 0, 1, 506, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = one.numr;
@@ -104640,7 +104070,6 @@ transform = "{1, 0, 0, 1, 506, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = one.numr;
@@ -104714,7 +104143,6 @@ transform = "{1, 0, 0, 1, 550, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = two.numr;
@@ -104788,7 +104216,6 @@ transform = "{1, 0, 0, 1, 506, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = one.numr;
@@ -104862,7 +104289,6 @@ transform = "{1, 0, 0, 1, 546, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = three.numr;
@@ -104936,7 +104362,6 @@ transform = "{1, 0, 0, 1, 506, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = one.numr;
@@ -105010,7 +104435,6 @@ transform = "{1, 0, 0, 1, 546, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = three.numr;
@@ -105084,7 +104508,6 @@ transform = "{1, 0, 0, 1, 546, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = five.numr;
@@ -105158,7 +104581,6 @@ transform = "{1, 0, 0, 1, 510, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = seven.numr;
@@ -105217,7 +104639,6 @@ unicode = 215E;
 glyphname = CR;
 layers = (
 {
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 width = 186;
 },
@@ -105276,7 +104697,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -105412,7 +104832,6 @@ width = 695;
 glyphname = .null;
 layers = (
 {
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 width = 0;
 },
@@ -105429,7 +104848,6 @@ width = 0;
 glyphname = space;
 layers = (
 {
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 width = 186;
 },
@@ -105448,7 +104866,6 @@ glyphname = nbspace;
 production = uni00A0;
 layers = (
 {
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 width = 186;
 },
@@ -105496,7 +104913,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -105653,7 +105069,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -105860,7 +105275,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -105986,7 +105400,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -106111,7 +105524,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -106275,7 +105687,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -106489,7 +105900,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -106741,7 +106151,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -107017,7 +106426,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -107256,7 +106664,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -107513,7 +106920,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -107860,7 +107266,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -108121,7 +107526,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -108240,7 +107644,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -108436,7 +107839,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -108788,7 +108190,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -109179,7 +108580,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -109364,7 +108764,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -109544,7 +108943,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -109654,7 +109052,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -109767,7 +109164,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -109891,7 +109287,6 @@ name = hyphen;
 }
 );
 };
-color = -1;
 components = (
 {
 name = hyphen;
@@ -109952,7 +109347,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -110100,7 +109494,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -110263,7 +109656,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -110407,7 +109799,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -110540,7 +109931,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -110690,7 +110080,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -110860,7 +110249,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -111064,7 +110452,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -111237,7 +110624,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -111464,7 +110850,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -111678,7 +111063,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -111988,7 +111372,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -112275,7 +111658,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -112522,7 +111904,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -112706,7 +112087,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -112775,7 +112155,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -112863,7 +112242,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -113060,7 +112438,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -113279,7 +112656,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -113557,7 +112933,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -113813,7 +113188,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -114031,7 +113405,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -114223,7 +113596,6 @@ name = parenleftinferior;
 }
 );
 };
-color = -1;
 components = (
 {
 name = parenleftinferior;
@@ -114282,7 +113654,6 @@ name = parenrightinferior;
 }
 );
 };
-color = -1;
 components = (
 {
 name = parenrightinferior;
@@ -114336,7 +113707,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -114403,7 +113773,6 @@ transform = "{1, 0, 0, 1, 0, 520}";
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -114490,7 +113859,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -114684,7 +114052,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -114877,7 +114244,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -115035,7 +114401,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -115278,7 +114643,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -115513,7 +114877,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -115721,7 +115084,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -115858,7 +115220,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -116035,7 +115396,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -116375,7 +115735,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -116682,7 +116041,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -116867,7 +116225,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -117052,7 +116409,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -117248,7 +116604,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -117430,7 +116785,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -117781,7 +117135,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -118105,7 +117458,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -118292,7 +117644,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -118491,7 +117842,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -118838,7 +118188,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -119430,7 +118779,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -119859,7 +119207,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -120199,7 +119546,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -120678,7 +120024,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -121223,7 +120568,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -121769,7 +121113,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -122074,7 +121417,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -122269,7 +121611,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -122466,7 +121807,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -122680,7 +122020,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -122940,7 +122279,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -123250,7 +122588,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -123615,7 +122952,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -124173,7 +123509,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -124738,7 +124073,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -125096,7 +124430,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -125505,7 +124838,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -125889,7 +125221,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -126262,7 +125593,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -126649,7 +125979,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -127055,7 +126384,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -127435,7 +126763,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -127880,7 +127207,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -128273,7 +127599,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -128594,7 +127919,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -128940,7 +128264,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -129198,7 +128521,6 @@ name = slash;
 }
 );
 };
-color = -1;
 components = (
 {
 name = slash;
@@ -129279,7 +128601,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -129493,7 +128814,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -129669,7 +128989,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -129942,7 +129261,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -130244,7 +129562,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -130523,7 +129840,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -130832,7 +130148,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -131030,7 +130345,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -131273,7 +130587,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -131589,7 +130902,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -131944,7 +131256,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -132307,7 +131618,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -132607,7 +131917,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -132799,7 +132108,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -132986,7 +132294,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -133199,7 +132506,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -133556,7 +132862,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -133802,7 +133107,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -134074,7 +133378,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -134366,7 +133669,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -134692,7 +133994,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -134987,7 +134288,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -135312,7 +134612,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -135693,7 +134992,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -136308,7 +135606,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -136952,7 +136249,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -137165,7 +136461,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -137325,7 +136620,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -137568,7 +136862,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -137875,7 +137168,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -138129,7 +137421,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -138444,7 +137735,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -138746,7 +138036,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -138932,7 +138221,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -139215,7 +138503,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -139401,7 +138688,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -139583,7 +138869,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -139743,7 +139028,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -139909,7 +139193,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -140066,7 +139349,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -140248,7 +139530,6 @@ name = "segol-hb";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "sheva-hb";
@@ -140327,7 +139608,6 @@ name = "patah-hb";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "sheva-hb";
@@ -140406,7 +139686,6 @@ name = "qamatsqatan-hb";
 }
 );
 };
-color = -1;
 components = (
 {
 name = "sheva-hb";
@@ -140501,7 +139780,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -140655,7 +139933,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -140892,7 +140169,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -141155,7 +140431,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -141312,7 +140587,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -141501,7 +140775,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -141640,7 +140913,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -141821,7 +141093,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -142078,7 +141349,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -142220,7 +141490,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -142377,7 +141646,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -142559,7 +141827,6 @@ name = dieresis;
 }
 );
 };
-color = -1;
 components = (
 {
 name = dieresis;
@@ -142660,7 +141927,6 @@ name = dotaccent;
 }
 );
 };
-color = -1;
 components = (
 {
 name = dotaccent;
@@ -142743,9 +142009,9 @@ transform = "{1, 0, 0, 1, -3, 0}";
 }
 );
 };
-color = -1;
 components = (
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, -3, 0}";
 }
@@ -142786,6 +142052,7 @@ transform = "{1, 0, 0, 1, -3, 0}";
 color = 10;
 components = (
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, -3, 0}";
 }
@@ -142828,9 +142095,9 @@ name = acute;
 }
 );
 };
-color = -1;
 components = (
 {
+alignment = -1;
 name = acute;
 }
 );
@@ -142869,6 +142136,7 @@ name = acute;
 color = 10;
 components = (
 {
+alignment = -1;
 name = acute;
 }
 );
@@ -142911,7 +142179,6 @@ name = hungarumlaut;
 }
 );
 };
-color = -1;
 components = (
 {
 name = hungarumlaut;
@@ -142998,7 +142265,6 @@ transform = "{1, 0, 0, 1, 149, 750}";
 }
 );
 };
-color = -1;
 components = (
 {
 alignment = -1;
@@ -143078,7 +142344,6 @@ name = circumflex;
 }
 );
 };
-color = -1;
 components = (
 {
 name = circumflex;
@@ -143172,7 +142437,6 @@ name = caron;
 }
 );
 };
-color = -1;
 components = (
 {
 name = caron;
@@ -143266,7 +142530,6 @@ name = breve;
 }
 );
 };
-color = -1;
 components = (
 {
 name = breve;
@@ -143374,7 +142637,6 @@ name = ring;
 }
 );
 };
-color = -1;
 components = (
 {
 name = ring;
@@ -143467,7 +142729,6 @@ name = tilde;
 }
 );
 };
-color = -1;
 components = (
 {
 name = tilde;
@@ -143575,7 +142836,6 @@ name = macron;
 }
 );
 };
-color = -1;
 components = (
 {
 name = macron;
@@ -143682,7 +142942,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -143850,7 +143109,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -144029,7 +143287,6 @@ name = cedilla;
 }
 );
 };
-color = -1;
 components = (
 {
 name = cedilla;
@@ -144104,7 +143361,6 @@ name = ogonek;
 }
 );
 };
-color = -1;
 components = (
 {
 name = ogonek;
@@ -144201,7 +143457,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -144363,7 +143618,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -144555,7 +143809,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -144768,7 +144021,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -144983,7 +144235,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -145115,7 +144366,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -145280,7 +144530,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -145468,7 +144717,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -145712,7 +144960,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -145903,7 +145150,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -146089,7 +145335,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -146279,7 +145524,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -146457,7 +145701,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -146631,7 +145874,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -146790,7 +146032,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -146968,7 +146209,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -147190,7 +146430,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -147426,7 +146665,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -147591,7 +146829,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -147783,7 +147020,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -148000,7 +147236,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -148290,7 +147525,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -148521,7 +147755,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -148741,7 +147974,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -148943,7 +148175,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -149149,7 +148380,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -149376,7 +148606,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -149560,7 +148789,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -149763,7 +148991,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -149998,7 +149225,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -150179,7 +149405,6 @@ transform = "{1, 0, 0, 1, -50, 845}";
 }
 );
 };
-color = -1;
 components = (
 {
 name = commaaccentcomb;
@@ -150245,7 +149470,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -150363,7 +149587,6 @@ nodes = (
 }
 );
 };
-color = -1;
 layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 paths = (
 {
@@ -150462,8 +149685,7 @@ interpolationWeight = 220;
 instanceInterpolations = {
 "EC64484B-0978-4CB1-9EE9-C40A2D8C4059" = 1;
 };
-name = Black;
-weightClass = Black;
+name = Regular;
 }
 );
 kerning = {
@@ -153005,9 +152227,9 @@ slashlongcomb = -31;
 };
 };
 };
-manufacturer = "Hubert & Fischer";
+manufacturer = "Hubert and Fischer, NaN";
 manufacturerURL = "http://www.google.com/fonts";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 102;
+versionMinor = 103;
 }

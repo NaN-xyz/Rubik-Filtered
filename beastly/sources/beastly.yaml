@@ -1,5 +1,6 @@
-    sources:
-      - Rubik-Beastly.glyphs
-    familyName: Rubik Beastly
-    buildOTF: False
-    buildVariable: False
+sources:
+  - RubikBeastly.glyphs
+familyName: Rubik Beastly
+buildOTF: False
+buildVariable: False
+autohintTTF: False

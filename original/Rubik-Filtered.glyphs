@@ -11,7 +11,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright 2020 The Rubik Filtered Project Authors (https://https://github.com/NaN-xyz/Rubik-Filtered)";
+copyright = "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)";
 customParameters = (
 {
 name = panose;

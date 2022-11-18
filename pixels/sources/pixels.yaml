@@ -1,0 +1,8 @@
+sources:
+  - RubikPixels.glyphs
+familyName: Rubik Pixels
+buildOTF: False
+buildVariable: False
+autohintTTF: False
+decomposeTransformedComponents: false
+flattenComponents: false

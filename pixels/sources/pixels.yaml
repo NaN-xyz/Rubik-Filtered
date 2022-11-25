@@ -4,5 +4,5 @@ familyName: Rubik Pixels
 buildOTF: False
 buildVariable: False
 autohintTTF: False
-decomposeTransformedComponents: false
-flattenComponents: false
+decomposeTransformedComponents: False
+flattenComponents: False

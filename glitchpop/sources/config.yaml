@@ -4,3 +4,4 @@ familyName: Rubik Glitch Pop
 buildOTF: False
 buildVariable: False
 autohintTTF: False
+removeOutlineOverlaps: false

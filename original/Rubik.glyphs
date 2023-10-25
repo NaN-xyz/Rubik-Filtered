@@ -1,5 +1,8 @@
 {
 .appVersion = "3222";
+DisplayStrings = (
+"/Scedilla"
+);
 classes = (
 {
 code = "alef-hb bet-hb gimel-hb dalet-hb he-hb vav-hb zayin-hb het-hb tet-hb yod-hb finalkaf-hb kaf-hb lamed-hb finalmem-hb mem-hb finalnun-hb nun-hb samekh-hb ayin-hb finalpe-hb pe-hb finaltsadi-hb tsadi-hb qof-hb resh-hb shin-hb tav-hb";
@@ -6968,11 +6971,11 @@ nodes = (
 "20 102 OFFCURVE",
 "107 9 OFFCURVE",
 "288 -7 CURVE",
-"268 -52 LINE",
+"268 -52 LINE SMOOTH",
 "259 -71 OFFCURVE",
 "261 -76 OFFCURVE",
-"270 -85 CURVE",
-"291 -106 LINE",
+"270 -85 CURVE SMOOTH",
+"291 -106 LINE SMOOTH",
 "304 -119 OFFCURVE",
 "327 -106 OFFCURVE",
 "345 -106 CURVE SMOOTH",
@@ -6984,8 +6987,8 @@ nodes = (
 "345 -154 CURVE SMOOTH",
 "311 -154 OFFCURVE",
 "306 -136 OFFCURVE",
-"289 -151 CURVE",
-"268 -169 LINE",
+"289 -151 CURVE SMOOTH",
+"268 -169 LINE SMOOTH",
 "245 -189 OFFCURVE",
 "292 -220 OFFCURVE",
 "345 -220 CURVE SMOOTH"

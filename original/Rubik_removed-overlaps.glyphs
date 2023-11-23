@@ -1,5 +1,5 @@
 {
-.appVersion = "3223";
+.appVersion = "3227";
 .formatVersion = 3;
 axes = (
 {
@@ -30263,12 +30263,12 @@ layerId = "EC64484B-0978-4CB1-9EE9-C40A2D8C4059";
 shapes = (
 {
 alignment = -1;
+locked = 1;
 pos = (112,0);
 ref = "yod-hb";
 },
 {
-alignment = -1;
-pos = (15,-26);
+pos = (-157,-26);
 ref = "dagesh-hb";
 }
 );
